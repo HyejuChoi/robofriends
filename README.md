@@ -1,2 +1,2 @@
 # robofriends
-hyejuchoi.github.io/robofriends
+http://hyejuchoi.github.io/robofriends
